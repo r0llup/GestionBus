@@ -161,7 +161,7 @@ public class DefineLigneHoraire extends javax.swing.JDialog
         }
     }
     
-    /** Récupère les lignes dans les fichiers correspondants **/
+    /** Récupère les lignes dans les fichiers correspondents **/
     private void loadDataLigne()
     {
         String filename = System.getProperty("user.dir") +
